@@ -18,4 +18,4 @@ There are more costs for higher education than tuition and related scholastic fe
 - Project Report
 - Data Dictionary
 - Data File
-- [Tableau Dashboard](https://public.tableau.com/app/profile/mouli.chittabathina/viz/TrueCostEstimationsByHildrethInstitute/DashboardInstate_Dollar?publish=yes)
+- [Tableau Dashboard](https://public.tableau.com/app/profile/mouli.chittabathina/viz/TrueCostEstimationsByHildrethInstitute/DashboardInstate_Dollar)
